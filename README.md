@@ -1,4 +1,5 @@
 # Fortress: Event Management Application
+https://twierdza-36a68.web.app/
 ![appstore](https://github.com/PatrykWysocki5140/Twierdza/assets/56190743/8734302f-295e-4771-b8f6-30671a9be129)
 
 ## Video showcasing the application:
@@ -39,6 +40,7 @@ Fortress is an application designed for easy management, searching, and particip
 
 
 # Twierdza: Aplikacja do Zarządzania Wydarzeniami
+https://twierdza-36a68.web.app/
 ![appstore](https://github.com/PatrykWysocki5140/Twierdza/assets/56190743/8734302f-295e-4771-b8f6-30671a9be129)
 
 ## Wideo prezentujące działanie:
